@@ -4,6 +4,8 @@ Given a maze, find your way out using Tcl
 
 This solution is based on the wall following or wall hugging algorithm. 
 
+CreateCanvas(all graphic procs) does not belong to me.
+
 Steps:
 
 1.	store the maze map to a data structure.
