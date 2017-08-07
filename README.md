@@ -21,7 +21,7 @@ Solution was simple enough to be implemented in ~25LOCS.
 
 Known Issues & Optimizations required:
 
-1.	Major issues: For the 2 large mazes. Need to optimize the code.
+1.	Major issues: To use larger mazes, Need to optimize the code.
 2.	Major Issue: Few extra locations, which were open and visited gets added to the final map. Needs to trim the final map. 
 3.	Minor Issue: An error message regarding data structure scope is shown intermittently. Not able to reproduce consistently.
 4.	Minor issue: Redoing the solution again. Now it application needs to be closed. Need to use the clear function already in the program properly.
